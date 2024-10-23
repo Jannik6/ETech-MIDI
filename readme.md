@@ -14,8 +14,9 @@ This project implements a MIDI controller using a Teensy microcontroller, featur
 
 ## Usage
 
-**Please consider buying my Teensy-breakout-board on Tindie.**
 <a href="https://www.tindie.com/stores/etech/?ref=offsite_badges&utm_source=sellers_jannik_de&utm_medium=badges&utm_campaign=badge_medium"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>
+
+**Please consider buying my Teensy-breakout-board on Tindie.**
 
 - **Button Press**: Press any of the 10 buttons to send a MIDI Note On message. The corresponding LED will light up based on the MIDI note value.
 - **Button Release**: Release the button to send a MIDI Note Off message.
